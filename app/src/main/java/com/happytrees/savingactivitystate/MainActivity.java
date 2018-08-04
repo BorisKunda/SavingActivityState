@@ -11,9 +11,9 @@ public class MainActivity extends AppCompatActivity {
 
     EditText firstName, lastName, title, department;
 
-   String KEY_FIRSTNAME= "firstname_key";
-    String KEY_LASTNAME = "lastname_key";
-     String KEY_TITLE = "title_key";
+    private static final String KEY_FIRSTNAME= "firstname_key";
+    private static final String KEY_LASTNAME = "lastname_key";
+    private static final String KEY_TITLE = "title_key";
 
 
 
